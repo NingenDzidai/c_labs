@@ -1,0 +1,5 @@
+﻿  lab_2_functions.cpp
+G:\Учеба\University\10_semester\Плюсы\labs\lab_2\lab_2\lab_2\lab_2_functions.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "lab_2_functions.cpp")
+  
+  lab_2.vcxproj -> G:\Учеба\University\10_semester\Плюсы\labs\lab_2\lab_2\x64\Debug\lab_2.exe
