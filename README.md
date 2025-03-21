@@ -1,1 +1,1 @@
-# c_labs
+# C++ labs 2025 2 semester masters
